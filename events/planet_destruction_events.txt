@@ -443,14 +443,14 @@ planet_event = {
 				exists = owner
 				owner = {
 					is_primitive = yes
-				OR = {
-					species_portrait = human
-					species_portrait = human_legacy
+					OR = {
+						species_portrait = human
+						species_portrait = human_legacy
+					}
 				}
 			}
 		}
 	}
-}
 
 	is_triggered_only = yes
 
