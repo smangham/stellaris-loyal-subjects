@@ -11,4 +11,5 @@ If you like this, you might also like:
 	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2949670744]Shared Burden Balance - People Power:[/url] Adds a flat bonus to political power to the Shared Burden living standard to remove its effective faction influence penalty.
 	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2948086213]Optimal Genomes - Better Genetic Ascension:[/url] Adds combined traits to simplify running a genetically ascended empire.
 	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2953156241][spoiler]Mass Driver Rebuilt[/spoiler] - Fear the Dark:[/url] Adds an extra bonus to the end of the Fear of the Dark origin quest chain.
+	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2987439465]Automate Infrastructure - Gateways & Hyper Relays[/url]: Adds the option to build one-step gateways, or upgrade Hyper Relays to add a gateway (and keep the relay!)
 [/list]
