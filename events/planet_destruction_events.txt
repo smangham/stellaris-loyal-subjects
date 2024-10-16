@@ -287,7 +287,6 @@ planet_event = {
 				is_planet_class = pc_habitat
 			}
 			spawn_habitat_cracker_effect = yes
-			remove_planet = yes
 		}
 		else_if = {
 			limit = {
@@ -1145,6 +1144,7 @@ planet_event = {
 			create_ambient_object = {
 				location = this
 				type = habitat_cracker_object
+				play_animation_once = yes
 				duration = 5
 
 				use_3d_location = yes
@@ -1172,6 +1172,7 @@ planet_event = {
 			create_ambient_object = {
 				location = this
 				type = habitat_cracker_object
+				play_animation_once = yes
 				duration = 5
 
 				use_3d_location = yes
@@ -1240,7 +1241,7 @@ planet_event = {
 							OR = {
 								is_materialist = yes
 								is_egalitarian = yes
-								has_authority = auth_machine_intelligence
+								is_machine_empire = yes
 							}
 						}
 					}
@@ -1954,6 +1955,7 @@ planet_event = {
 			create_ambient_object = {
 				location = this
 				type = habitat_cracker_object
+				play_animation_once = yes
 				duration = 5
 
 				use_3d_location = yes
@@ -1981,6 +1983,7 @@ planet_event = {
 			create_ambient_object = {
 				location = this
 				type = habitat_cracker_object
+				play_animation_once = yes
 				duration = 5
 
 				use_3d_location = yes
@@ -2657,6 +2660,7 @@ planet_event = {
 			create_ambient_object = {
 				location = this
 				type = habitat_cracker_object
+				play_animation_once = yes
 				duration = 5
 
 				use_3d_location = yes
@@ -2687,6 +2691,7 @@ planet_event = {
 			create_ambient_object = {
 				location = this
 				type = habitat_cracker_object
+				play_animation_once = yes
 				duration = 5
 
 				use_3d_location = yes
@@ -2755,7 +2760,7 @@ planet_event = {
 							OR = {
 								is_spiritualist = yes
 								is_xenophile = yes
-								has_authority = auth_hive_mind
+								is_hive_empire = yes
 							}
 						}
 					}

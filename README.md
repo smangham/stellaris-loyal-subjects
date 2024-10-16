@@ -1,4 +1,4 @@
-[b]Version 3.12.*[/b]
+[b]Version 3.13.*[/b]
 
 Federation members and associated are perfectly OK with you cracking enemy planets. Your vassals, however, are not. This mod fixes that, by editing the world-cracking/assimilating/pacifying/etc. script to give your loyal subjects the same blase attitude towards your permanent and irreversible destruction of a planet as your federation members.
 
